@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center" width="50">
 
-<!--
-**onecrazygenius/onecrazygenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm OneCrazyGenius!
+<br>
 
-Here are some ideas to get you started:
+<p><strong> 🎧 Vibing 🎧  </strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qcqgh1mk8c51zz7i5zwey9agt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qcqgh1mk8c51zz7i5zwey9agt&redirect=true)
+
+<hr />
+</div>
+
+```python
+# my fav tech stuffz
+
+class Tech:
+  def __init__(self):
+    self.programmer = "onecrazygenius"
+    self.description = "GitOps, DevOps & MLOps Engineer"
+
+  def getLanguages(self) -> dict:
+    return {
+      'favs': ["python 🐍", "ts/js ✨", "php 💜", "sql 🏢", "shell stuff 🐢"],
+      'doable': ["c fam 👨🏻‍👩🏼‍👦🏻", "lua 🪐", "elixir 🍷"],
+      '#@!&': ["java 😤"]
+    }
+
+  def getTechnologies(self) -> list:
+    return "Git, Cloud, Containers, I love to learn and will update a full list when I stop procastinating"
+```
