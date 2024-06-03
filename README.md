@@ -1,3 +1,5 @@
 <body style="width: 100%; height: fit-content">
-    <img style="width: 100%; height: 1000px" src="img/discord.svg">
+    <a href="https://onecrazygenius.com" alt="website" target="_blank" rel="nofollow">
+        <img style="width: 100%; height: 700px" src="img/discord.svg">
+    </a>
 </body>
